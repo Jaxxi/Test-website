@@ -1,0 +1,76 @@
+body {
+  background-color: lightgrey;
+
+}
+
+h1{
+  font-size: 250%;
+  text-align: center;
+  }
+img{
+
+}
+.secondtitle{
+  color:white;
+}
+.textsecond{
+  color:black;
+  font-size: 40px;
+}
+.textthird{
+  color:black;
+  font-size: 40px;
+  text-align:right;
+}
+.secondbackground{
+  background-image:url(salute.jpg);
+  background-size: 1300px 700px;
+  background-repeat: no-repeat;
+}
+.thirdbackground{
+  background-image:url(picture/gorg.jpg);
+  background-size: 1300px 700px;
+  background-repeat: no-repeat;
+}
+.gif{
+  height:350px;
+  width: 500px;
+}
+
+ul{
+  margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color:grey;
+   background-color:grey;
+}
+li a{
+  display: block;
+   color: white;
+   background-color:grey;
+   background-color:grey;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+li a:hover {
+    color: white;
+    color: #lightgrey;
+    text-decoration: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: -4px;
+    border-style: solid;
+    border-color: #FFBA08;
+}
+.active {
+    color:white;
+    background-color:darkgrey;
+    text-decoration: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: -4px;
+    border-style: solid;
+    border-color: #FFBA08;
